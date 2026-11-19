@@ -9,8 +9,8 @@ const String kAppName = 'Keripikroll'; // GANTI: nama aplikasi
 const String kHomeTitle = 'Beranda'; // GANTI: judul halaman utama
 const String kSavedWord = 'Favorit'; // GANTI: Favorit / Bookmark / Keranjang / Library
 const String kProfileMessage =
-    'Kesan: Praktikum mobile seru dan banyak ilmu baru.\n'
-    'Pesan: Terima kasih kak aslab sudah sabar membimbing kami!'; // GANTI
+    'Kesan: Praktikum mobile seru\n'
+    'Pesan: Terima kasih kak aslab'; // GANTI
 const String kAllLabel = 'Semua'; // label chip filter "semua"
 const bool kUseGrid = true; // true = grid, false = list (bisa ditoggle di app)
 const bool kShowCategoryFilter = true; // false = sembunyikan chip filter
